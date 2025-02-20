@@ -1,6 +1,6 @@
-# Kubernetes Offline Deployment UPM
+# Installing UPM on Kubernetes
 
-## Kubernetes Offline Deployment UPM Manual
+## Installing UPM on Kubernetes
 
 Version information
 
@@ -176,6 +176,8 @@ Note that storageClassName is storageClass in k8s. Please use the storageClass t
 * `mysql.rootPassword`: MySQL root password
 * `redis.nodeNames`: Deploy the reids schedule to the specified node;
 * `redis.authPassword`: redis password
+
+>
 
 Perform the installation:
 

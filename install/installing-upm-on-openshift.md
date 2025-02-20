@@ -1,6 +1,6 @@
-# Openshift Offline Deployment UPM
+# Installing UPM on Openshift
 
-## Openshift Offline Deployment UPM Manual
+## Installing UPM on Openshift
 
 Version information
 
